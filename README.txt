@@ -1,1 +1,1 @@
-Angular2 cource task card app project files.
+Angular2 course task card app project files.
